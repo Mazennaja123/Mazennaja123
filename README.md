@@ -1,7 +1,7 @@
-[![MasterHead](https://in.linkedin.com/company/fullstack-developers)](https://mazennaja123.io)
+[![MasterHead](https://www.akronglobalsolutions.com/wp-content/uploads/2019/08/software-development-banner-1080x366.jpg)](https://mazennaja123.io)
 <h1 align="center">Hi 👋, I'm Mazen Naja</h1>
 <h3 align="center">Software developer Git ready for what's coming</h3>
-
+<img align="right" alt="Coding" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png" </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazennaja123&label=Profile%20views&color=0e75b6&style=flat" alt="mazennaja123" /> </p>
 
 <h3 align="left">Connect with me:</h3>
