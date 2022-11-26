@@ -1,6 +1,6 @@
 [![MasterHead](https://www.akronglobalsolutions.com/wp-content/uploads/2019/08/software-development-banner-1080x366.jpg)](https://mazen-naja.io)
 <h1 align="center">Hi 👋, I'm Mazen Naja</h1>
-<h3 align="center">Software developer Git ready for what's coming</h3>
+<h3 align="center">Software developer get ready for what's coming</h3>
 <img align="right" alt="Coding" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png" </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazen-naja&label=Profile%20views&color=0e75b6&style=flat" alt="mazen-naja" /> </p>
 
