@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazen-naja&label=Profile%20views&color=0e75b6&style=flat" alt="mazen-naja" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="mazennajaa@gmail.com">Email</a>
+<a href="mazennajaa@gmail.com">Email</a> <a href="https://www.linkedin.com/in/mazen-naja-47021a23a/">Linkedin</a>
 <p align="left">
 </p>
 
